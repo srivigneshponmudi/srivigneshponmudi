@@ -6,10 +6,15 @@ Hi, I'm a Power BI Developer and a Cloud PostgreSQL & SQL Server DBA passionate 
 💻 Skills & Expertise
 
 •	Power BI: Developing interactive reports and dashboards
+
 •	PostgreSQL (Cloud): Database administration, optimization, and security
+
 •	SQL Server: Query tuning, backups, and performance improvements
+
 •	Data Modeling: Structuring data for analytics and reporting
+
 •	ETL Processes: Extract, transform, load workflows
+
 •	Cloud Infrastructure: Experience with cloud-based databases and migrations
 
 
